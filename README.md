@@ -32,10 +32,16 @@ To run the code in this repository, you will need to have the following installe
 
 ### Setup
 
+Here’s the updated section of the README file with the provided repository details:
+
+---
+
+### Setup
+
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/iotanic-v2.0.git
-   cd iotanic-v2.0
+   git clone https://github.com/ngaeninurul/model-cnn-ta.git
+   cd model-cnn-ta
    ```
 
 2. **Install the required dependencies:**
