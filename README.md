@@ -1,7 +1,3 @@
-Here is an example of what the README file could look like for the repository based on the provided image:
-
----
-
 # Iotanic v2.0 - Rice Leaf Disease Detection
 
 This repository contains the code, models, and data used for developing the rice leaf disease detection feature for the Iotanic v2.0 smart farming application. The application utilizes machine learning, specifically Convolutional Neural Networks (CNN), to detect diseases in rice plants through image processing.
