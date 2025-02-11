@@ -1,4 +1,4 @@
-# Iotanic v2.0 - Rice Leaf Disease Detection
+# Iotanic v2.0 - Rice Leaf Disease Classifications 
 
 This repository contains the code, models, and data used for developing the rice leaf disease detection feature for the Iotanic v2.0 smart farming application. The application utilizes machine learning, specifically Convolutional Neural Networks (CNN), to detect diseases in rice plants through image processing.
 
